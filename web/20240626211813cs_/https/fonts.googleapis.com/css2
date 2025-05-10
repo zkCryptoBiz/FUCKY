@@ -1,0 +1,30 @@
+/* latin */
+@font-face {
+  font-family: 'Contrail One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20240626211813im_/https://fonts.gstatic.com/s/contrailone/v19/eLGbP-j_JA-kG0_Zo51noaftYkHq.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*
+     FILE ARCHIVED ON 21:18:13 Jun 26, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:39:43 Dec 13, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.51
+  exclusion.robots: 0.023
+  exclusion.robots.policy: 0.014
+  esindex: 0.009
+  cdx.remote: 17.87
+  LoadShardBlock: 147.644 (3)
+  PetaboxLoader3.datanode: 180.253 (4)
+  load_resource: 83.112
+  PetaboxLoader3.resolve: 40.114
+*/

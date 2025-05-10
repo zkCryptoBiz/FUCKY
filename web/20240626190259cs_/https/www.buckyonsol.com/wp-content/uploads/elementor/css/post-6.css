@@ -1,0 +1,105 @@
+.elementor-kit-6{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-90cb71c:#F3CE04;--e-global-color-0b9a886:#A7FFB3;--e-global-color-cf1dc8a:#F46104;--e-global-color-afa584d:#383838;--e-global-color-95f1f5d:#F86B5F;--e-global-color-6c87fb8:#000000;--e-global-color-f6f236e:#FFFFFF;--e-global-typography-primary-font-family:"Contrail One";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-3ae02aa-font-family:"Contrail One";--e-global-typography-3ae02aa-font-size:92px;--e-global-typography-3ae02aa-font-weight:600;--e-global-typography-3ae02aa-text-transform:uppercase;--e-global-typography-3ae02aa-line-height:1.1;--e-global-typography-4fcb063-font-family:"Contrail One";--e-global-typography-4fcb063-font-size:72px;--e-global-typography-4fcb063-font-weight:600;--e-global-typography-4fcb063-text-transform:uppercase;--e-global-typography-4fcb063-line-height:1.1em;--e-global-typography-6186fdf-font-family:"Contrail One";--e-global-typography-6186fdf-font-size:38px;--e-global-typography-6186fdf-font-weight:600;--e-global-typography-6186fdf-text-transform:uppercase;--e-global-typography-6186fdf-line-height:1.1;--e-global-typography-27f2b49-font-family:"Contrail One";--e-global-typography-27f2b49-font-size:38px;--e-global-typography-27f2b49-font-weight:600;--e-global-typography-27f2b49-text-transform:uppercase;--e-global-typography-27f2b49-line-height:1.1;--e-global-typography-c8810d4-font-family:"Contrail One";--e-global-typography-c8810d4-font-size:26px;--e-global-typography-c8810d4-font-weight:400;--e-global-typography-c8810d4-text-transform:capitalize;--e-global-typography-c8810d4-line-height:1.1;--e-global-typography-e592371-font-family:"Contrail One";--e-global-typography-e592371-font-size:19px;--e-global-typography-e592371-font-weight:200;--e-global-typography-e592371-line-height:1.1;--e-global-typography-af9cb02-font-family:"Contrail One";--e-global-typography-af9cb02-font-size:72px;--e-global-typography-af9cb02-font-weight:600;--e-global-typography-af9cb02-text-transform:uppercase;--e-global-typography-af9cb02-line-height:1.1;--e-global-typography-b115164-font-family:"Contrail One";--e-global-typography-b115164-font-size:56px;--e-global-typography-b115164-font-weight:600;--e-global-typography-b115164-text-transform:uppercase;--e-global-typography-b115164-line-height:1.1;--e-global-typography-8f96bb7-font-family:"Contrail One";--e-global-typography-8f96bb7-font-size:24px;--e-global-typography-8f96bb7-font-weight:300;--e-global-typography-8f96bb7-text-transform:capitalize;--e-global-typography-8f96bb7-line-height:1.1;--e-global-typography-8f96bb7-letter-spacing:0.2px;--e-global-typography-d453062-font-family:"Contrail One";--e-global-typography-d453062-font-size:20px;--e-global-typography-d453062-font-weight:300;--e-global-typography-d453062-line-height:1.1;--e-global-typography-d453062-letter-spacing:0.2px;background-color:var( --e-global-color-6c87fb8 );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.buckyCta {
+    background: linear-gradient(90deg, #F3CE04 0%, #FFA500 100%);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 4px 15px rgba(255, 165, 0, 0.75);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.buckyCta:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(255, 165, 0, 1);
+}
+
+.buckyCta:active {
+    transform: scale(0.98);
+}
+
+.contractAddress:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(255, 165, 0, 1);
+}
+
+.totalSupply:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(255, 165, 0, 1);
+}
+
+.buckyHighlight {
+    color: #F3CE04;
+}
+
+.glBorder {
+  border: 5px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(45deg, #52FF6A, #003B1F);
+}
+
+.buckyIcon {
+  transition: transform 0.3s ease; /* Smooth transition effect */
+}
+
+.buckyIcon:hover {
+  transform: scale(1.1); /* Slightly grow the element */
+}
+
+.ticker-banner {
+  width: 100%;
+  overflow: hidden;
+  background-color: #000; /* Adjust background color as needed */
+  color: #fff; /* Adjust text color as needed */
+  padding: 10px 0; /* Adjust padding as needed */
+  position: relative;
+}
+
+.ticker-wrap {
+  overflow: hidden;
+  width: 100%;
+}
+
+.ticker {
+  display: flex;
+  width: 200%; /* Ensure the ticker is wide enough to scroll continuously */
+  animation: ticker-move 20s linear infinite;
+}
+
+.ticker span {
+  display: inline-block;
+  padding: 0.5rem; /* Adjust spacing between words as needed */
+  font-size: 20px; /* Adjust font size as needed */
+  font-family: 'Contrail One', cursive; /* Apply the Contrail One font */
+}
+
+@keyframes ticker-move {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}/* End custom CSS */
+/*
+     FILE ARCHIVED ON 19:02:59 Jun 26, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:39:51 Dec 13, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.546
+  exclusion.robots: 0.026
+  exclusion.robots.policy: 0.016
+  esindex: 0.01
+  cdx.remote: 5.142
+  LoadShardBlock: 399.965 (3)
+  PetaboxLoader3.datanode: 208.774 (5)
+  PetaboxLoader3.resolve: 139.599 (2)
+  load_resource: 168.595
+  loaddict: 70.972
+*/
